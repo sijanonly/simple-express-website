@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+}
+
+footer{
+	background: '#f4f4f4f4';
+	height: 40px;
+	text-align: center;
+	margin-top:20px;
+	overflow: auto;
+}
